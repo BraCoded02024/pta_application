@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970502487318",
+    "project_id": "pta-application-bd440",
+    "storage_bucket": "pta-application-bd440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970502487318:android:6b39fc85990696fe34a437",
+        "android_client_info": {
+          "package_name": "com.example.pta_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAskeLCXCt4dcF4RcdE5iDuoOtOosMHXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
